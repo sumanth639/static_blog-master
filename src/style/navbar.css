@@ -1,0 +1,22 @@
+.navbar-brand{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', sans-serif; 
+}
+#imgLogo{
+    width: 300px;
+    height: 70px;
+}
+@media (max-width:300px) {
+    #imgLogo{
+        width: 150px;
+        height: 70px;
+    }
+}
+@media (max-width:990px) {
+    #myCont{
+        display: none;
+    }
+    #navLogo{
+        justify-content: center;
+    }
+}

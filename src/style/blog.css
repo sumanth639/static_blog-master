@@ -1,0 +1,54 @@
+#bgServe {
+  position: relative;
+  opacity: 0.99;
+}
+#bgServe:before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background-image: url('https://i.pinimg.com/originals/f8/1e/aa/f81eaafae688f5e319b99fdbcafdf22d.jpg');
+  background-size: cover;
+  opacity: 0.5;
+}
+#btnHvn {
+  background-color: rgb(158, 138, 49);
+  border: 1px solid rgb(138, 114, 8);
+  border-radius: 20px;
+}
+#blogImg {
+  max-width: 100%;
+  vertical-align: middle;
+  text-align: center;
+}
+#imgH {
+  height: 150px;
+}
+.card {
+  width: auto;
+  height: 100%;
+}
+@media (max-width: 1200px) {
+  #carCssPort {
+    margin-bottom: 0;
+  }
+}
+@media (max-width: 767px) {
+  #carCssPort {
+    margin-top: 25px;
+  }
+}
+@media (max-width: 500px) {
+  #removeUp {
+    margin-top: -25px;
+  }
+  #imgH {
+    height: 200px;
+  }
+}
+@media (min-width: 501px) and (max-width: 995px) {
+  #imgH {
+    height: 225px;
+  }
+}
