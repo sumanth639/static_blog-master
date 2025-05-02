@@ -47,6 +47,264 @@ const Blog = () => {
               <img
                 className="card-img-top"
                 id="imgH"
+                src="/img/beat-lifestyle.png"
+                height={'110px'}
+                alt="Card image cap"
+              />
+              <div className="card-body">
+                <h4
+                  style={{ color: 'rgb(138, 114, 8)' }}
+                  className="card-title"
+                >
+                  How to Beat Lifestyle Inflation and Build Lasting Wealth
+                </h4>
+                <h3 style={{ color: 'black' }}>
+                  The Hidden Threat to Your Financial Future
+                </h3>
+                <p style={{ marginTop: '10px' }} className="card-text">
+                  We've all been there—you receive a salary increase, a bonus,
+                  or some unexpected financial gain. Your first thought...
+                </p>
+                <a
+                  href="/blog-31"
+                  target="_blank"
+                  id="btnHvn"
+                  style={{ fontSize: '15px', marginTop: '18px' }}
+                  className="btn btn-primary"
+                >
+                  Read More
+                </a>
+              </div>
+            </div>
+          </div>
+          <div className="col-sm" id="carCssPort">
+            <div
+              className="card"
+              style={{
+                border: '2px solid rgb(234, 236, 237)',
+                boxShadow: '2px 2px 4px 4px rgb(234, 236, 237)',
+              }}
+            >
+              <img
+                className="card-img-top"
+                id="imgH"
+                src="/img/psychology-investing.png"
+                height={'110px'}
+                alt="Card image cap"
+              />
+              <div className="card-body">
+                <h4
+                  style={{ color: 'rgb(138, 114, 8)' }}
+                  className="card-title"
+                >
+                  The Psychology of Investing: Overcoming Behavioral Biases for
+                  Smarter Decisions
+                </h4>
+                <h3 style={{ color: 'black' }}>
+                  How emotions affect your investment decisions
+                </h3>
+                <p style={{ marginTop: '10px' }} className="card-text">
+                  Investing isn't just about market trends and data—it's also
+                  influenced by psychology....
+                </p>
+                <a
+                  href="/blog-32"
+                  target="_blank"
+                  id="btnHvn"
+                  style={{ fontSize: '15px', marginTop: '13px' }}
+                  className="btn btn-primary"
+                >
+                  Read More
+                </a>
+              </div>
+            </div>
+          </div>
+          <div className="col-sm" id="carCssPort">
+            <div
+              className="card"
+              style={{
+                border: '2px solid rgb(234, 236, 237)',
+                boxShadow: '2px 2px 4px 4px rgb(234, 236, 237)',
+              }}
+            >
+              <span>
+                <img
+                  className="card-img-top"
+                  id="imgH"
+                  src="/img/millenial.png"
+                  height={'110px'}
+                  alt="Card image cap"
+                />
+              </span>
+              <div className="card-body">
+                <h4
+                  style={{ color: 'rgb(138, 114, 8)' }}
+                  className="card-title"
+                >
+                  Why Millennials Are Prioritizing Health Insurance
+                </h4>
+                <h3 style={{ color: 'black' }}>
+                  The Post-Pandemic Shift in Financial Planning
+                </h3>
+                <p className="card-text">
+                  The COVID-19 pandemic was a turning point for millennials,
+                  reshaping their approach to financial planning and healthcare.
+                  Once seen as...
+                </p>
+                <a
+                  href="/blog-33"
+                  target="_blank"
+                  id="btnHvn"
+                  style={{ fontSize: '15px', marginTop: '15px' }}
+                  className="btn btn-primary"
+                >
+                  Read More
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="row" style={{ marginTop: '25px' }} id="blkD">
+          <div className="col-sm">
+            <div
+              className="card"
+              style={{
+                border: '2px solid rgb(234, 236, 237)',
+                boxShadow: '2px 2px 4px 4px rgb(234, 236, 237)',
+              }}
+            >
+              <img
+                className="card-img-top"
+                id="imgH"
+                src="/img/stay-invested.png"
+                height={'110px'}
+                alt="Card image cap"
+              />
+              <div className="card-body">
+                <h4
+                  style={{ color: 'rgb(138, 114, 8)' }}
+                  className="card-title"
+                >
+                  How to Stay Invested During Market Volatility
+                </h4>
+                <h3 style={{ color: 'black' }}>
+                  Navigating market fluctuations without panic selling
+                </h3>
+                <p style={{ marginTop: '10px' }} className="card-text">
+                  Market volatility is a natural part of investing, yet it often
+                  triggers fear-driven decisions...
+                </p>
+                <a
+                  href="/blog-34"
+                  target="_blank"
+                  id="btnHvn"
+                  style={{ fontSize: '15px' }}
+                  className="btn btn-primary"
+                >
+                  Read More
+                </a>
+              </div>
+            </div>
+          </div>
+          <div className="col-sm" id="carCssPort">
+            <div
+              className="card"
+              style={{
+                border: '2px solid rgb(234, 236, 237)',
+                boxShadow: '2px 2px 4px 4px rgb(234, 236, 237)',
+              }}
+            >
+              <img
+                className="card-img-top"
+                id="imgH"
+                src="/img/inflation-affect.png"
+                height={'110px'}
+                alt="Card image cap"
+              />
+              <div className="card-body">
+                <h4
+                  style={{ color: 'rgb(138, 114, 8)' }}
+                  className="card-title"
+                >
+                  How Inflation Affects Your Investments
+                </h4>
+                <h3 style={{ color: 'black' }}>
+                  And how mutual funds can help beat inflation
+                </h3>
+                <p style={{ marginTop: '10px' }} className="card-text">
+                  Inflation is the silent force that reduces your money's
+                  purchasing power over time. Learn how mutual funds can help
+                  protect and grow your wealth...
+                </p>
+                <a
+                  href="/blog-35"
+                  target="_blank"
+                  id="btnHvn"
+                  style={{ fontSize: '15px', marginTop: '9px' }}
+                  className="btn btn-primary"
+                >
+                  Read More
+                </a>
+              </div>
+            </div>
+          </div>
+          <div className="col-sm" id="carCssPort">
+            <div
+              className="card"
+              style={{
+                border: '2px solid rgb(234, 236, 237)',
+                boxShadow: '2px 2px 4px 4px rgb(234, 236, 237)',
+              }}
+            >
+              <span>
+                <img
+                  className="card-img-top"
+                  id="imgH"
+                  src="https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1712383469understandingthedynamics-01.png"
+                  height={'110px'}
+                  alt="Card image cap"
+                />
+              </span>
+              <div className="card-body">
+                <h4
+                  style={{ color: 'rgb(138, 114, 8)' }}
+                  className="card-title"
+                >
+                  Understand the Dynamics{' '}
+                </h4>
+                <h3 style={{ color: 'black' }}>
+                  Overnight Funds vs. Liquid Funds vs. Ultra Short-Term Funds
+                </h3>
+                <p className="card-text">
+                  When it comes to parking your surplus cash or optimizing your
+                  investments for short-term gains, navigating the realm of
+                  mutual funds can be both...
+                </p>
+                <a
+                  href="/blog-1"
+                  target="_blank"
+                  id="btnHvn"
+                  style={{ fontSize: '15px', marginTop: '15px' }}
+                  className="btn btn-primary"
+                >
+                  Read More
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="row" style={{ marginTop: '25px' }} id="blkD">
+          <div className="col-sm">
+            <div
+              className="card"
+              style={{
+                border: '2px solid rgb(234, 236, 237)',
+                boxShadow: '2px 2px 4px 4px rgb(234, 236, 237)',
+              }}
+            >
+              <img
+                className="card-img-top"
+                id="imgH"
                 src="https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1718453275Powerofcompounding2-01.png"
                 height={'110px'}
                 alt="Card image cap"
@@ -1231,267 +1489,6 @@ const Blog = () => {
                   target="_blank"
                   id="btnHvn"
                   style={{ fontSize: '15px', marginTop: '13px' }}
-                  className="btn btn-primary"
-                >
-                  Read More
-                </a>
-              </div>
-            </div>
-          </div>
-          <div className="col-sm" id="carCssPort">
-            <div
-              className="card"
-              style={{
-                border: '2px solid rgb(234, 236, 237)',
-                boxShadow: '2px 2px 4px 4px rgb(234, 236, 237)',
-              }}
-            >
-              <span>
-                <img
-                  className="card-img-top"
-                  id="imgH"
-                  src="https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1712383469understandingthedynamics-01.png"
-                  height={'110px'}
-                  alt="Card image cap"
-                />
-              </span>
-              <div className="card-body">
-                <h4
-                  style={{ color: 'rgb(138, 114, 8)' }}
-                  className="card-title"
-                >
-                  Understand the Dynamics{' '}
-                </h4>
-                <h3 style={{ color: 'black' }}>
-                  Overnight Funds vs. Liquid Funds vs. Ultra Short-Term Funds
-                </h3>
-                <p className="card-text">
-                  When it comes to parking your surplus cash or optimizing your
-                  investments for short-term gains, navigating the realm of
-                  mutual funds can be both...
-                </p>
-                <a
-                  href="/blog-1"
-                  target="_blank"
-                  id="btnHvn"
-                  style={{ fontSize: '15px', marginTop: '15px' }}
-                  className="btn btn-primary"
-                >
-                  Read More
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        {/* New */}
-        <div className="row" style={{ marginTop: '25px' }} id="blkD">
-          <div className="col-sm">
-            <div
-              className="card"
-              style={{
-                border: '2px solid rgb(234, 236, 237)',
-                boxShadow: '2px 2px 4px 4px rgb(234, 236, 237)',
-              }}
-            >
-              <img
-                className="card-img-top"
-                id="imgH"
-                src="/img/beat-lifestyle.png"
-                height={'110px'}
-                alt="Card image cap"
-              />
-              <div className="card-body">
-                <h4
-                  style={{ color: 'rgb(138, 114, 8)' }}
-                  className="card-title"
-                >
-                  How to Beat Lifestyle Inflation and Build Lasting Wealth
-                </h4>
-                <h3 style={{ color: 'black' }}>
-                  The Hidden Threat to Your Financial Future
-                </h3>
-                <p style={{ marginTop: '10px' }} className="card-text">
-                  We've all been there—you receive a salary increase, a bonus,
-                  or some unexpected financial gain. Your first thought...
-                </p>
-                <a
-                  href="/blog-31"
-                  target="_blank"
-                  id="btnHvn"
-                  style={{ fontSize: '15px', marginTop: '18px' }}
-                  className="btn btn-primary"
-                >
-                  Read More
-                </a>
-              </div>
-            </div>
-          </div>
-          <div className="col-sm" id="carCssPort">
-            <div
-              className="card"
-              style={{
-                border: '2px solid rgb(234, 236, 237)',
-                boxShadow: '2px 2px 4px 4px rgb(234, 236, 237)',
-              }}
-            >
-              <img
-                className="card-img-top"
-                id="imgH"
-                src="/img/psychology-investing.png"
-                height={'110px'}
-                alt="Card image cap"
-              />
-              <div className="card-body">
-                <h4
-                  style={{ color: 'rgb(138, 114, 8)' }}
-                  className="card-title"
-                >
-                  The Psychology of Investing: Overcoming Behavioral Biases for
-                  Smarter Decisions
-                </h4>
-                <h3 style={{ color: 'black' }}>
-                  How emotions affect your investment decisions
-                </h3>
-                <p style={{ marginTop: '10px' }} className="card-text">
-                  Investing isn't just about market trends and data—it's also
-                  influenced by psychology....
-                </p>
-                <a
-                  href="/blog-32"
-                  target="_blank"
-                  id="btnHvn"
-                  style={{ fontSize: '15px', marginTop: '13px' }}
-                  className="btn btn-primary"
-                >
-                  Read More
-                </a>
-              </div>
-            </div>
-          </div>
-          <div className="col-sm" id="carCssPort">
-            <div
-              className="card"
-              style={{
-                border: '2px solid rgb(234, 236, 237)',
-                boxShadow: '2px 2px 4px 4px rgb(234, 236, 237)',
-              }}
-            >
-              <span>
-                <img
-                  className="card-img-top"
-                  id="imgH"
-                  src="/img/millenial.png"
-                  height={'110px'}
-                  alt="Card image cap"
-                />
-              </span>
-              <div className="card-body">
-                <h4
-                  style={{ color: 'rgb(138, 114, 8)' }}
-                  className="card-title"
-                >
-                  Why Millennials Are Prioritizing Health Insurance
-                </h4>
-                <h3 style={{ color: 'black' }}>
-                  The Post-Pandemic Shift in Financial Planning
-                </h3>
-                <p className="card-text">
-                  The COVID-19 pandemic was a turning point for millennials,
-                  reshaping their approach to financial planning and healthcare.
-                  Once seen as...
-                </p>
-                <a
-                  href="/blog-33"
-                  target="_blank"
-                  id="btnHvn"
-                  style={{ fontSize: '15px', marginTop: '15px' }}
-                  className="btn btn-primary"
-                >
-                  Read More
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="row" style={{ marginTop: '25px' }} id="blkD">
-          <div className="col-sm">
-            <div
-              className="card"
-              style={{
-                border: '2px solid rgb(234, 236, 237)',
-                boxShadow: '2px 2px 4px 4px rgb(234, 236, 237)',
-              }}
-            >
-              <img
-                className="card-img-top"
-                id="imgH"
-                src="/img/stay-invested.png"
-                height={'110px'}
-                alt="Card image cap"
-              />
-              <div className="card-body">
-                <h4
-                  style={{ color: 'rgb(138, 114, 8)' }}
-                  className="card-title"
-                >
-                  How to Stay Invested During Market Volatility
-                </h4>
-                <h3 style={{ color: 'black' }}>
-                  Navigating market fluctuations without panic selling
-                </h3>
-                <p style={{ marginTop: '10px' }} className="card-text">
-                  Market volatility is a natural part of investing, yet it often
-                  triggers fear-driven decisions...
-                </p>
-                <a
-                  href="/blog-34"
-                  target="_blank"
-                  id="btnHvn"
-                  style={{ fontSize: '15px' }}
-                  className="btn btn-primary"
-                >
-                  Read More
-                </a>
-              </div>
-            </div>
-          </div>
-          <div className="col-sm" id="carCssPort">
-            <div
-              className="card"
-              style={{
-                border: '2px solid rgb(234, 236, 237)',
-                boxShadow: '2px 2px 4px 4px rgb(234, 236, 237)',
-              }}
-            >
-              <img
-                className="card-img-top"
-                id="imgH"
-                src="/img/inflation-affect.png"
-                height={'110px'}
-                alt="Card image cap"
-              />
-              <div className="card-body">
-                <h4
-                  style={{ color: 'rgb(138, 114, 8)' }}
-                  className="card-title"
-                >
-                  How Inflation Affects Your Investments
-                </h4>
-                <h3 style={{ color: 'black' }}>
-                  And how mutual funds can help beat inflation
-                </h3>
-                <p style={{ marginTop: '10px' }} className="card-text">
-                  Inflation is the silent force that reduces your money's
-                  purchasing power over time. Learn how mutual funds can help
-                  protect and grow your wealth...
-                </p>
-                <a
-                  href="/blog-35"
-                  target="_blank"
-                  id="btnHvn"
-                  style={{ fontSize: '15px', marginTop: '9px' }}
                   className="btn btn-primary"
                 >
                   Read More
