@@ -4,7 +4,7 @@ const PortPage3 = () => {
     return (
         <>
             <div className='container' style={{ marginTop: '100px', marginBottom: '100px', border: '1px solid #d0cdcd', boxShadow: "2px 2px 3px 2px #d0cdcd", borderRadius: '10px' }}>
-                <h3 style={{ color: 'white', textAlign: 'center', marginTop: '25px', backgroundColor: '#337ab7', paddingTop: '15px', paddingBottom: '15px', borderRadius: '10px' }}>The Imperative "Why" of Retirement Planning for Entrepreneurs</h3>
+                <h3 style={{ color: 'white', textAlign: 'center', marginTop: '25px', backgroundColor: '#bc9e51', paddingTop: '15px', paddingBottom: '15px', borderRadius: '10px' }}>The Imperative "Why" of Retirement Planning for Entrepreneurs</h3>
                 <div style={{ textAlign: 'center' }}>
                     <img id='blogImg' src="https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1706937713Retirementplanningforbusinessman-01.png" alt="blog_image" />
                 </div>

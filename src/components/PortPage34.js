@@ -17,7 +17,7 @@ const PortPage34 = () => {
           color: 'white',
           textAlign: 'center',
           marginTop: '25px',
-          backgroundColor: '#337ab7',
+          backgroundColor: '#bc9e51',
           paddingTop: '15px',
           paddingBottom: '15px',
           borderRadius: '10px',
